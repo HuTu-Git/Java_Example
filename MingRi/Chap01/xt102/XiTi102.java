@@ -1,4 +1,4 @@
-package MingRi.Chap01.xt02;
+package MingRi.Chap01.xt102;
 
 public class XiTi102 {
     public static void main(String[] args) {
