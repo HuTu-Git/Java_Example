@@ -1,6 +1,6 @@
 package MingRi.Chap01.xt02;
 
-public class XiTi02 {
+public class XiTi102 {
     public static void main(String[] args) {
         System.out.println("------------");
         System.out.println("| 我要学会 |");
